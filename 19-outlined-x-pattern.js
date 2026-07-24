@@ -1,3 +1,4 @@
+// Expected output: a 6-by-6 outlined X pattern.
 let n = 6;
 parttern = ""
 

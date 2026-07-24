@@ -1,3 +1,4 @@
+// Expected output: a seven-row Pascal-style digit pattern generated with arithmetic.
 let n = 7, val = 1; let x = 1;
 for (let i = 0; i < n; i++) {
     let line = "";

@@ -1,3 +1,4 @@
+// Expected output: seven centered rows of Pascal's triangle, from 1 to 1 6 15 20 15 6 1.
 let n = 7;
 
 for (i = 0; i < n; i++) {

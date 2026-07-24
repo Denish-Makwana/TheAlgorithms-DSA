@@ -1,3 +1,4 @@
+// Expected output: a butterfly pattern that expands to a full 9-star horizontal border.
 let n = 4;
 
 

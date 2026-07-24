@@ -1,3 +1,4 @@
+// Expected output: a 10-row filled hourglass pattern.
 let n = 10;
 let pattern = "";
 

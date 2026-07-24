@@ -1,3 +1,4 @@
+// Expected output: a decorative tree-like pattern with star branches and four tilde rows.
 let rows = 5;
 let line = "";
 

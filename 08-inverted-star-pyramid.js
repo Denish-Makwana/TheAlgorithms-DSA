@@ -1,3 +1,4 @@
+// Expected output: an inverted filled pyramid with odd-width rows from 9 stars to 1.
 let n = 5;
 let parttern = "";
 

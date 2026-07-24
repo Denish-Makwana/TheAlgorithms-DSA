@@ -1,3 +1,4 @@
+// Expected output: a hollow pyramid with a filled 9-star base.
 let n = 5;
 pattern =""
 for (let i = 1; i <= n; i++) {

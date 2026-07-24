@@ -1,3 +1,4 @@
+// Expected output: a decorative tree scene with a star canopy, trunk, and tilde rows.
 let n = 10;
 let pattern = "";
 

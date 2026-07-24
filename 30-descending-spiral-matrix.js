@@ -1,3 +1,4 @@
+// Expected output: a 5-by-5 clockwise spiral matrix that counts down from 25 to 1.
 let n = 5;
 let pattern = Array.from({ length: n }, () => Array(n));
 let count = n * n;

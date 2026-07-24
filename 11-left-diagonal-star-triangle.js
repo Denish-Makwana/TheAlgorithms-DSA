@@ -1,3 +1,4 @@
+// Expected output: a 3-row left-edge and diagonal star triangle.
 let n = 3;
 
 for (i = 0; i < n; i++) {

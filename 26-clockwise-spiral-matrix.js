@@ -1,3 +1,4 @@
+// Expected output: a 4-by-4 clockwise spiral matrix containing 1 through 16.
 let n = 4;
 let pattern = Array.from({ length: n }, () => Array(n));
 let count = 1;

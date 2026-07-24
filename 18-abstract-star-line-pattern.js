@@ -1,3 +1,4 @@
+// Expected output: a 10-row abstract line pattern with a central cross and outer edges.
 let n = 10;
 parttern = ""
 

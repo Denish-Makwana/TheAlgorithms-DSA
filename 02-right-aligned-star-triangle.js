@@ -1,3 +1,4 @@
+// Expected output: a right-aligned star triangle with 1 to 5 stars per row.
 let row = 5,n,j,k;
 let column ="";
 

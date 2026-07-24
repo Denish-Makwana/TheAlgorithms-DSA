@@ -1,3 +1,4 @@
+// Expected output: a hollow double-diagonal outline with a 19-star top border.
 let n = 10;
 let pattern = '';
 

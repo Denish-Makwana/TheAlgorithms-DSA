@@ -1,3 +1,4 @@
+// Expected output: an inverted butterfly outline, beginning with a 21-star top border.
 let n = 10;
 
 partten = "";

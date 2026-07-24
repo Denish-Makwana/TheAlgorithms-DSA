@@ -1,3 +1,4 @@
+// Expected output: a 10-row inverted right triangle with a top border and diagonal edge.
 // let n = 9;
 
 // for (i = 0; i < n; i++) {

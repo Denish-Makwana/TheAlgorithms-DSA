@@ -1,3 +1,4 @@
+// Expected output: a centered binary triangle with alternating 1 and 0 values.
 let n = 5;
 parttern = ""
 

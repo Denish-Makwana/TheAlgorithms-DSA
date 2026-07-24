@@ -1,3 +1,4 @@
+// Expected output: a right-aligned triangle with spaced stars, growing from 1 to 6 rows.
 let row = 5;
 let column = "";
 

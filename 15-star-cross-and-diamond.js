@@ -1,3 +1,4 @@
+// Expected output: a 7-by-7 star pattern combining horizontal, vertical, and diagonal lines.
 let n = 3;
 let pattern = "";
 

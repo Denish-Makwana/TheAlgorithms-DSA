@@ -1,3 +1,4 @@
+// Expected output: five rows of alternating full and two-star stripes.
 let row = 5;
 let col = 5;
 

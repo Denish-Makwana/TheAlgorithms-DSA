@@ -1,3 +1,4 @@
+// Expected output: a 9-row split diagonal and stair-step star pattern.
 let n = 9;
 parttern = ""
 for (let i = 0; i < n; i++) {

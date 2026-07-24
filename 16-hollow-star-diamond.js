@@ -1,3 +1,4 @@
+// Expected output: a hollow diamond outline that is 19 rows high.
 let n = 10;
 let pattern = "";
 
